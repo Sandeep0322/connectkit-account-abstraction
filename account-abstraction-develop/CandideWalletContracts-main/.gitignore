@@ -1,0 +1,9 @@
+#production 
+/build
+
+#tests cache
+*__pycache__
+
+# misc
+.env
+.hypothesis
